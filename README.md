@@ -22,6 +22,10 @@ This project is based on the [Raspberry Pi Zero 2 W](https://www.raspberrypi.com
 
 For the proof of concept I created a [3D printed Mount Adapter](kiss-baby-monitor-mount.stl). This adapter is attached to the Raspberry Pi Camera Mount with M2.5 screws. I drilled 4 holes into the Raspberry Pi Camera Mount. The equipment is also attached to the 3D printed Mount with M2.5 and M3 screws. The M2.5 screws are all through hole with nuts, the M3 screws are attached with M3 Thread Inserts.
 
+PoC Front                               |  PoC Back
+:--------------------------------------:|:--------------------------------------:
+![PoC Front](resources/PoC-front.jpg)   |  ![PoC Back](resources/PoC-back.jpg)
+
 ## Operating System and Software
 As operating system [Raspberry Pi OS Lite (64-bit)](https://www.raspberrypi.com/software/operating-systems/) is used. As software to capture the video and sound and to stream it [MediaMTX](https://github.com/bluenviron/mediamtx) is used.
 

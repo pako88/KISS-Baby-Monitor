@@ -5,6 +5,18 @@ There are alternative projects out there (see section [Other Open Source Baby Mo
 
 This project is based on the [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) and the software [MediaMTX](https://github.com/bluenviron/mediamtx).
 
+## Table of contents
+
+- [Hardware](#hardware)
+- [Operating System and Software](#operating-system-and-software)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Demonstration of Quality](#demonstration-of-quality)
+- [Possible future improvements](#possible-future-improvements)
+- [License](#license)
+- [Other Open Source Baby Monitor Solutions](#other-open-source-baby-monitor-solutions)
+
+
 ## Hardware
 - [Raspberry Pi Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w)
 - [Aluminium Heat Sink for Raspberry Pi Zero 2 W](https://www.berrybase.de/waveshare-aluminiumkuehlkoerper-fuer-raspberry-pi-zero-zero-2-w)

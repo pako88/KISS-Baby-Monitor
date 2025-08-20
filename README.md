@@ -92,6 +92,22 @@ The power supply of the baby monitor just needs to be plugged in.
 As a parent device (to view the stream) I am using an old Android phone with the [VLC app](https://f-droid.org/packages/org.videolan.vlc/). The stream can be opened with the following URL:  
 `rtsp://IP_ADDRESS_OF_RASPBERRY_PI:8554/cam_with_audio`
 
+## Demonstration of Quality
+The quality is very good, given the fact that it's pitch black inside the room.
+
+![Screenshot](resources/Screenshot.png)
+
+## Possible future improvements
+If I find time, I will work on the following topics related to this project:
+- [ ] 3D-printed box/enclosure
+- [ ] Script for automatic installation
+- [ ] Parent Unit based on a Raspberry Pi
+- [ ] Improve Android-based parent unit (develop an own app - maybe based on [rtsp-client-android](https://github.com/alexeyvasilyev/rtsp-client-android))
+
+Goals to achieve with the two parent unit topics are typical baby monitor stuff, e.g.:
+- automatic reconnection if connection gets lost
+- alarm sound while connection is lost
+
 ## License
 The 3D printable file is released under the [GNU GPLv3 License](LICENSE).
 
